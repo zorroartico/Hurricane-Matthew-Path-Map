@@ -16,5 +16,5 @@ This was a personal project I did at leisure. Rather than using ArcMap (ArcGIS) 
 <li>Matplotlib was used to map the track of hurricane matthew. Instructions for mapping using basemap are found <a href='https://matplotlib.org/basemap/users/examples.html'>here</a>.</li>
 <li>I used Python 3.6.3.</li>
 <li>I added some comments on the .py files for brief explanation.</li>
-<li>I like to refactor codes because I don't want main.py file to be increasing in length.</li>
+<li>I like to refactor codes because I don't want main.py file to be long.</li>
 </ul>
